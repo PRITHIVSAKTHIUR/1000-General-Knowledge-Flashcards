@@ -10,6 +10,7 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
+![alt text](assets/FC.png)
 
 🚀Check out the configuration reference at : https://huggingface.co/docs/hub/spaces-config-reference
 
